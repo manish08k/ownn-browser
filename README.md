@@ -1,4 +1,4 @@
-#Browser
+# Browser
 
 A production-quality desktop web browser built with C++20, Qt 6, and Qt WebEngine.
 
