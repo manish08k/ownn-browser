@@ -1,0 +1,7 @@
+build/
+cmake-build-*/
+*.app
+*.dmg
+CMakeCache.txt
+CMakeFiles/
+.DS_Store
